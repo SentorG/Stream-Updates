@@ -19,4 +19,5 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Animations** | Chroma key background tests | ❌ | TBC |
 | | DJ rush | ❌ | TBC |
 | | Lotads Out | ❌ | TBC |
+| | GG | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
