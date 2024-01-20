@@ -5,8 +5,8 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Update** | **Details** | **✅/❌** | **Date** |
 |:-:|:-:|:-:|-|
 | **Static Emotes** | Snug | ❌ | TBC |
-| | Wave | ❌ | TBC |
-| | D: | ❌ | TBC |
+| |  | ❌ | TBC |
+| |  | ❌ | TBC |
 | **Animated Emotes** | Watch | ❌ | TBC |
 | | Bongo | ❌ | TBC |
 | | DJ | ❌ | TBC |
