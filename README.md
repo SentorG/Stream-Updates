@@ -6,15 +6,14 @@ A list of all the things I would like to edit about my stream, in regards to emo
 |:-:|:-:|:-:|-|
 | **Static Emotes** | Snug | ❌ | TBC |
 | | Smort | ❌ | TBC |
-| | Bozo | ❌ | TBC |
+| | Bozo | ✅ | 21/01/24 |
 | **Animated Emotes** | Watch | ❌ | TBC |
 | | Bongo | ❌ | TBC |
 | | DJ | ❌ | TBC |
 | | Notes | ❌ | TBC |
 | **T2 Emote** | Party | ❌ | TBC |
 | **T3 Emote** | Flex | ❌ | TBC |
-| **Bits Emotes** | Fren | ❌ | TBC |
-| | Shiny | ❌ | TBC |
+| **Bits Emotes** | Shiny | ✅ | 21/01/24 |
 | | Bless | ❌ | TBC |
 | **Animations** | Chroma key background tests | ❌ | TBC |
 | | DJ rush | ❌ | TBC |
