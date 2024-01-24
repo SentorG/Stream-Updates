@@ -9,7 +9,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Bozo | ✅ | 21/01/24 |
 | **Animated Emotes** | Watch | ✅ | 24/01/24 |
 | | Bongo | ❌ | TBC |
-| | DJ | ❌ | TBC |
+| | DJ | ✅ | 24/01/24 |
 | | Notes | ❌ | TBC |
 | | Unreal | ❌ | TBC |
 | **T2 Emote** | Party | ❌ | TBC |
