@@ -7,7 +7,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Static Emotes** | Snug | ❌ | TBC |
 | | Smort | ❌ | TBC |
 | | Bozo | ✅ | 21/01/24 |
-| **Animated Emotes** | Watch | ❌ | TBC |
+| **Animated Emotes** | Watch | ✅ | 24/01/24 |
 | | Bongo | ❌ | TBC |
 | | DJ | ❌ | TBC |
 | | Notes | ❌ | TBC |
