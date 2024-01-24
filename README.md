@@ -17,7 +17,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Bits Emotes** | Shiny | ✅ | 21/01/24 |
 | | Bless | ❌ | TBC |
 | **Animations** | Chroma key background tests | ❌ | TBC |
-| | DJ rush | ❌ | TBC |
+| | DJ rush | ✅ | 24/01/24 |
 | | Lotads Out | ✅ | 24/01/24 |
 | | GG | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
