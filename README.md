@@ -16,7 +16,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Pop | ❌ | TBC |
 | | Gamba | ❌ | TBC |
 | | Dive | ❌ | TBC |
-| | DinkDonk ❌ | TBC |
+| | DinkDonk | ❌ | TBC |
 | **T2 Emote** | Party | ❌ | TBC |
 | **T3 Emote** | Flex | ❌ | TBC |
 | **Bits Emotes** | Shiny | ✅ | 21/01/24 |
