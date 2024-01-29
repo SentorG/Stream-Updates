@@ -14,7 +14,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | DJ | ✅ | 24/01/24 |
 | | Notes | ✅ | 29/01/24 |
 | | Unreal | ✅ | 29/01/24 |
-| | Pop | ❌ | TBC |
+| | Pop | ✅ | 29/01/24 |
 | | Gamba | ❌ | TBC |
 | | Dive | ❌ | TBC |
 | | DinkDonk | ❌ | TBC |
