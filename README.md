@@ -15,7 +15,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Notes | ✅ | 29/01/24 |
 | | Unreal | ✅ | 29/01/24 |
 | | Pop | ✅ | 29/01/24 |
-| | Gamba | ❌ | TBC |
+| | Gamba | ✅ | 05/02/24 |
 | | Dive | ❌ | TBC |
 | | DinkDonk | ❌ | TBC |
 | **T2 Emote** | Party | ❌ | TBC |
