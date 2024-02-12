@@ -12,7 +12,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Animated Emotes** | Watch | ✅ | 24/01/24 |
 | | Bongo | ✅ | 29/01/24 |
 | | DJ | ✅ | 24/01/24 |
-| | Notes | ✅ | 29/01/24 |
+| | Notes | ✅ | 12/02/24 |
 | | Unreal | ✅ | 29/01/24 |
 | | Pop | ✅ | 29/01/24 |
 | | Gamba | ✅ | 05/02/24 |
