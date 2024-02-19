@@ -4,7 +4,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 ## Updates:
 | **Update** | **Details** | **✅/❌** | **Date** |
 |:-:|:-:|:-:|-|
-| **Static Emotes** | Snug | ❌ | TBC |
+| **Static Emotes** | Snug | ✅ | 19/02/24 |
 | | Smort | ❌ | TBC |
 | | Bozo | ✅ | 21/01/24 |
 | | marbb | ❌ | TBC |
@@ -18,7 +18,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Gamba | ✅ | 05/02/24 |
 | | Dive | ❌ | TBC |
 | | DinkDonk | ❌ | TBC |
-| **T2 Emote** | Party | ❌ | TBC |
+| **T2 Emote** | Party | ✅ | 19/02/24 |
 | **T3 Emote** | Flex | ❌ | TBC |
 | **Bits Emotes** | Shiny | ✅ | 21/01/24 |
 | | Bless | ❌ | TBC |
