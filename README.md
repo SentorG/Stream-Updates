@@ -25,6 +25,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Animations** | Chroma key background tests | ❌ | TBC |
 | | DJ rush | ✅ | 24/01/24 |
 | | Lotads Out | ✅ | 24/01/24 |
+| | Snowboarding Tad doing a trick | ✅ | TBC |
 | | GG | ❌ | TBC |
 | | marbb start | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
