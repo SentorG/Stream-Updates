@@ -9,6 +9,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Bozo | ✅ | 21/01/24 |
 | | marbb | ❌ | TBC |
 | | D: | ✅ | 19/02.24 |
+| | HG Win duo | ❌ | TBC |
 | **Animated Emotes** | Watch | ✅ | 24/01/24 |
 | | Bongo | ✅ | 29/01/24 |
 | | DJ | ✅ | 24/01/24 |
@@ -25,7 +26,7 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Animations** | Chroma key background tests | ❌ | TBC |
 | | DJ rush | ✅ | 24/01/24 |
 | | Lotads Out | ✅ | 24/01/24 |
-| | Snowboarding Tad doing a trick | ✅ | TBC |
+| | Snowboarding Tad doing a trick | ❌ | TBC |
 | | GG | ❌ | TBC |
 | | marbb start | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
