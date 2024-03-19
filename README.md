@@ -28,8 +28,8 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | **Animations** | Chroma key backgrounds | | |
 | | DJ rush | ✅ | 24/01/24 |
 | | Lotads Out | ✅ | 24/01/24 |
-| | Snowboarding Tad doing a trick | ❌ | TBC |
-| | Lotadvert in progress + message condensing | ❌ | TBC | 
+| | Snowboarding Tad doing a trick | ✅ | 19/03/24 |
+| | Lotadvert in progress + message condensing | ✅ | 17/03/24 | 
 | | GG | ❌ | TBC |
 | | marbb start | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
