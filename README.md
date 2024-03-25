@@ -30,6 +30,6 @@ A list of all the things I would like to edit about my stream, in regards to emo
 | | Lotads Out | ✅ | 24/01/24 |
 | | Snowboarding Tad doing a trick | ✅ | 19/03/24 |
 | | Lotadvert in progress + message condensing | ✅ | 17/03/24 | 
-| | GG | ❌ | TBC |
+| | GG | ✅ | 25/03/24 |
 | | marbb start | ❌ | TBC |
 | | Set of the day: DJ Taddy | ❌ | TBC |
